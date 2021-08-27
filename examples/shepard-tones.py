@@ -5,6 +5,8 @@ import pyaudio
 import math
 import struct
 
+# TODO: add readme and stuff
+
 #+=====================
 # CHeck chrome bookmarks folder "scripts" for stack overflow things
 # TODO: remove this comment
